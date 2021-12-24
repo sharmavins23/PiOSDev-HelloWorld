@@ -1,0 +1,5 @@
+# Slow down CPU speed to hit frequency
+core_freq_min=500
+
+# Force 64-bit ARM usage
+arm_64bit=1
